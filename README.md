@@ -1,3 +1,3 @@
 # Form-A-Story
 Codecademy project
-html, CSS and JavaScript
+html, CSS and Javascript
